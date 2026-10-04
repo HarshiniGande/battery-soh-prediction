@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed/timeseries_long.csv.gz
+.DS_Store

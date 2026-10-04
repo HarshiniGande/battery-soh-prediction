@@ -1,0 +1,9 @@
+{
+  "rows_in": 636,
+  "abnormal_charge_cycles_reset": 14,
+  "missing_charge_features_filled": 17,
+  "capacity_outliers_dropped": 2,
+  "rows_with_missing_dropped": 0,
+  "rows_out": 634,
+  "raw_measurements": 2089050
+}
